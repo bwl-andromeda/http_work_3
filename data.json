@@ -1,0 +1,830 @@
+{
+    "items": [
+        {
+            "tags": [
+                "python"
+            ],
+            "owner": {
+                "account_id": 27907379,
+                "reputation": 1,
+                "user_id": 21310276,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a/AGNmyxZLLXHrRux_4k8XD5RNs5D48fbg8ZB1RzJF7Gw5=k-s256",
+                "display_name": "Ad Katz",
+                "link": "https://stackoverflow.com/users/21310276/ad-katz"
+            },
+            "is_answered": false,
+            "view_count": 21,
+            "answer_count": 0,
+            "score": -1,
+            "last_activity_date": 1677749335,
+            "creation_date": 1677662266,
+            "last_edit_date": 1677749335,
+            "question_id": 75601637,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75601637/my-code-displays-incorrect-but-wont-output-correct-when-the-word-is-correct",
+            "title": "My code displays incorrect but won&#39;t output correct when the word is correct"
+        },
+        {
+            "tags": [
+                "python",
+                "pandas",
+                "dataframe",
+                "group-by"
+            ],
+            "owner": {
+                "account_id": 27353681,
+                "reputation": 63,
+                "user_id": 20862440,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/46f821d1853045b777d82e9f744a2c6b?s=256&d=identicon&r=PG&f=1",
+                "display_name": "SLA",
+                "link": "https://stackoverflow.com/users/20862440/sla"
+            },
+            "is_answered": false,
+            "view_count": 20,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1677749301,
+            "creation_date": 1677711076,
+            "last_edit_date": 1677749301,
+            "question_id": 75609784,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75609784/modification-of-top-n-value-of-a-pandas-dataframe-column-according-to-conditions",
+            "title": "modification of top n value of a pandas dataframe column according to conditions with group py"
+        },
+        {
+            "tags": [
+                "python",
+                "apache-spark",
+                "pyspark",
+                "java-8"
+            ],
+            "owner": {
+                "account_id": 17947736,
+                "reputation": 9,
+                "user_id": 13041603,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/7bca942dd715002222c42a7791ff9b49?s=256&d=identicon&r=PG&f=1",
+                "display_name": "ArcReactor77",
+                "link": "https://stackoverflow.com/users/13041603/arcreactor77"
+            },
+            "is_answered": false,
+            "view_count": 16,
+            "answer_count": 0,
+            "score": -1,
+            "last_activity_date": 1677749296,
+            "creation_date": 1677695975,
+            "last_edit_date": 1677749296,
+            "question_id": 75607713,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75607713/fixing-the-error-39exception-in-thread-quotmainquot-java-lang-exceptionin",
+            "title": "fixing the error &amp;#39;Exception in thread &amp;quot;main&amp;quot; java.lang.ExceptionInInitializerError&amp;#39; while installing pyspark"
+        },
+        {
+            "tags": [
+                "python",
+                "list",
+                "algorithm",
+                "sliding-window"
+            ],
+            "owner": {
+                "account_id": 22662028,
+                "reputation": 19,
+                "user_id": 16834984,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GjAmrlvTcw1YPtabgLPBKyX7sIuxnNSwkig9tjgig=k-s256",
+                "display_name": "poser",
+                "link": "https://stackoverflow.com/users/16834984/poser"
+            },
+            "is_answered": true,
+            "view_count": 91,
+            "accepted_answer_id": 75608261,
+            "answer_count": 1,
+            "score": 0,
+            "last_activity_date": 1677749171,
+            "creation_date": 1677678655,
+            "last_edit_date": 1677684707,
+            "question_id": 75604613,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75604613/list-iteration-optimization",
+            "title": "List iteration optimization"
+        },
+        {
+            "tags": [
+                "python",
+                "arduino",
+                "serial-communication"
+            ],
+            "owner": {
+                "account_id": 15386745,
+                "reputation": 1,
+                "user_id": 14226605,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/cbef2169730ac984c6591841a6af5d72?s=256&d=identicon&r=PG",
+                "display_name": "Vasumathi",
+                "link": "https://stackoverflow.com/users/14226605/vasumathi"
+            },
+            "is_answered": false,
+            "view_count": 45,
+            "answer_count": 2,
+            "score": -2,
+            "last_activity_date": 1677748952,
+            "creation_date": 1677648556,
+            "question_id": 75599898,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75599898/how-to-send-two-separate-variables-of-value-gt-255-through-serial-usb-communic",
+            "title": "How to send two separate variables of value &amp;gt; 255 through serial USB communication between Arduino DUE and python ( Jetson Nano)?"
+        },
+        {
+            "tags": [
+                "python",
+                "list",
+                "sorting",
+                "multidimensional-array",
+                "tuples"
+            ],
+            "owner": {
+                "account_id": 22750442,
+                "reputation": 9,
+                "user_id": 16910675,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/ab98413462da2412b3b4b4b56506a680?s=256&d=identicon&r=PG",
+                "display_name": "JJMendoza",
+                "link": "https://stackoverflow.com/users/16910675/jjmendoza"
+            },
+            "is_answered": true,
+            "view_count": 54,
+            "answer_count": 2,
+            "score": 0,
+            "last_activity_date": 1677748241,
+            "creation_date": 1677685307,
+            "last_edit_date": 1677686682,
+            "question_id": 75605919,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75605919/is-there-any-way-to-sort-how-to-sort-a-list-of-3-element-tuples",
+            "title": "Is there any way to sort how to sort a list of 3-element tuples"
+        },
+        {
+            "tags": [
+                "python",
+                "http",
+                "replay"
+            ],
+            "owner": {
+                "account_id": 21400134,
+                "reputation": 1,
+                "user_id": 20416439,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/aa9e67ec0dcb89b47239300843fd91f1?s=256&d=identicon&r=PG&f=1",
+                "display_name": "CryptoPerson",
+                "link": "https://stackoverflow.com/users/20416439/cryptoperson"
+            },
+            "is_answered": false,
+            "view_count": 17,
+            "answer_count": 1,
+            "score": 0,
+            "last_activity_date": 1677748221,
+            "creation_date": 1677691245,
+            "question_id": 75606997,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75606997/how-to-replay-http-requests-in-python",
+            "title": "How to replay HTTP requests in Python"
+        },
+        {
+            "tags": [
+                "python",
+                "flask"
+            ],
+            "owner": {
+                "account_id": 27911622,
+                "reputation": 1,
+                "user_id": 21313695,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/3dd73b0b7129733843eff381aa549976?s=256&d=identicon&r=PG",
+                "display_name": "fcpp1",
+                "link": "https://stackoverflow.com/users/21313695/fcpp1"
+            },
+            "is_answered": false,
+            "view_count": 10,
+            "answer_count": 1,
+            "score": 0,
+            "last_activity_date": 1677747246,
+            "creation_date": 1677695677,
+            "question_id": 75607677,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75607677/flask-resets-the-connection-with-redirect-render-template-via-post-method-dep",
+            "title": "Flask resets the connection with redirect + render_template via POST method, depending on the request size"
+        },
+        {
+            "tags": [
+                "python",
+                "setuptools",
+                "setup.py",
+                "python-packaging"
+            ],
+            "owner": {
+                "account_id": 20237392,
+                "reputation": 1,
+                "user_id": 14872161,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/87fdf82e14691ce099ae63080f8aef62?s=256&d=identicon&r=PG&f=1",
+                "display_name": "Rost381",
+                "link": "https://stackoverflow.com/users/14872161/rost381"
+            },
+            "is_answered": false,
+            "view_count": 13,
+            "answer_count": 0,
+            "score": -1,
+            "last_activity_date": 1677746662,
+            "creation_date": 1677704843,
+            "last_edit_date": 1677746662,
+            "question_id": 75609009,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75609009/how-can-i-automatically-change-the-version-number-in-the-setup-py-file",
+            "title": "How can I automatically change the version number in the setup.py file?"
+        },
+        {
+            "tags": [
+                "javascript",
+                "python",
+                "flask"
+            ],
+            "owner": {
+                "account_id": 26017420,
+                "reputation": 1,
+                "user_id": 19725564,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a/AItbvmkRSfrMoloy1QkACS5xngk6sBvOtT7eoJ8jclLu=k-s256",
+                "display_name": "memonj12",
+                "link": "https://stackoverflow.com/users/19725564/memonj12"
+            },
+            "is_answered": false,
+            "view_count": 12,
+            "closed_date": 1677684876,
+            "answer_count": 0,
+            "score": -1,
+            "last_activity_date": 1677746434,
+            "creation_date": 1677677191,
+            "last_edit_date": 1677746434,
+            "question_id": 75604348,
+            "link": "https://stackoverflow.com/questions/75604348/runtimeerror-set-the-secret-key-on-the-application-to-something-unique-and-secr",
+            "closed_reason": "Duplicate",
+            "title": "RuntimeError: Set the secret_key on the application to something unique and secret"
+        },
+        {
+            "tags": [
+                "python",
+                "python-import",
+                "setuptools",
+                "python-packaging"
+            ],
+            "owner": {
+                "account_id": 8836373,
+                "reputation": 35,
+                "user_id": 8549694,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/b7344a0141d4aeae55e7dd0ce7b681d2?s=256&d=identicon&r=PG&f=1",
+                "display_name": "LexTron",
+                "link": "https://stackoverflow.com/users/8549694/lextron"
+            },
+            "is_answered": false,
+            "view_count": 25,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1677746074,
+            "creation_date": 1677703771,
+            "last_edit_date": 1677746074,
+            "question_id": 75608864,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75608864/python-setup-py-create-namespace-without-corresponding-directory",
+            "title": "Python setup.py create namespace without corresponding directory"
+        },
+        {
+            "tags": [
+                "python",
+                "image-thresholding",
+                "pywavelets"
+            ],
+            "owner": {
+                "account_id": 26532786,
+                "reputation": 23,
+                "user_id": 20164731,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a-/ACNPEu8F-DDhpwfJbqwB-_ggHWLXscaGAGEqY-eYkvvAqw=k-s256",
+                "display_name": "\u0412\u043b\u0430\u0434\u0438\u0441\u043b\u0430\u0432 \u0427\u0435\u0440\u043a\u0430\u0441\u043e\u0432",
+                "link": "https://stackoverflow.com/users/20164731/%d0%92%d0%bb%d0%b0%d0%b4%d0%b8%d1%81%d0%bb%d0%b0%d0%b2-%d0%a7%d0%b5%d1%80%d0%ba%d0%b0%d1%81%d0%be%d0%b2"
+            },
+            "is_answered": false,
+            "view_count": 10,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1677745772,
+            "creation_date": 1677708344,
+            "last_edit_date": 1677745772,
+            "question_id": 75609465,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75609465/stein39s-unbiased-risk-estimate-sure-threshold-calculation-wavelets",
+            "title": "Stein&amp;#39;s Unbiased Risk Estimate (SURE) threshold calculation (Wavelets)"
+        },
+        {
+            "tags": [
+                "python",
+                "sqlalchemy",
+                "orm",
+                "python-decorators"
+            ],
+            "owner": {
+                "account_id": 25378931,
+                "reputation": 61,
+                "user_id": 19205811,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/dba0ce055ada2016ebd957ce9e566f64?s=256&d=identicon&r=PG&f=1",
+                "display_name": "aktabit",
+                "link": "https://stackoverflow.com/users/19205811/aktabit"
+            },
+            "is_answered": false,
+            "view_count": 13,
+            "answer_count": 0,
+            "score": 1,
+            "last_activity_date": 1677744663,
+            "creation_date": 1677710299,
+            "last_edit_date": 1677744663,
+            "question_id": 75609684,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75609684/getter-setter-in-sqlalchemy-orm-mapped-declarative-table",
+            "title": "Getter/setter in SQLAlchemy ORM mapped Declarative Table"
+        },
+        {
+            "tags": [
+                "python",
+                "android",
+                "html"
+            ],
+            "owner": {
+                "account_id": 27913216,
+                "reputation": 1,
+                "user_id": 21314925,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a/AGNmyxZPTOm7CJiGhOMpF_0ifKkERM3vXn169YCKstLe=k-s256",
+                "display_name": "Grigori Kog",
+                "link": "https://stackoverflow.com/users/21314925/grigori-kog"
+            },
+            "is_answered": false,
+            "view_count": 13,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1677744522,
+            "creation_date": 1677710769,
+            "last_edit_date": 1677744522,
+            "question_id": 75609744,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75609744/is-it-possible-to-display-the-3939run3939-from-a-python-project-to-a",
+            "title": "Is it possible to display the &amp;#39;&amp;#39;RUN&amp;#39;&amp;#39; from a python project to an android app or a html?"
+        },
+        {
+            "tags": [
+                "python",
+                "tkinter",
+                "slider",
+                "ttk"
+            ],
+            "owner": {
+                "account_id": 26913641,
+                "reputation": 1,
+                "user_id": 21315126,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/a5c222655f242a0444d35d651767fee4?s=256&d=identicon&r=PG",
+                "display_name": "Samuel Crawford",
+                "link": "https://stackoverflow.com/users/21315126/samuel-crawford"
+            },
+            "is_answered": false,
+            "view_count": 25,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1677744087,
+            "creation_date": 1677712961,
+            "last_edit_date": 1677744087,
+            "question_id": 75609997,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75609997/ttk-slider-not-changing-the-value-of-its-assigned-variable",
+            "title": "ttk slider not changing the value of its assigned variable"
+        },
+        {
+            "tags": [
+                "python",
+                "label",
+                "bokeh"
+            ],
+            "owner": {
+                "account_id": 27390674,
+                "reputation": 13,
+                "user_id": 20893704,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/84371ad29c8dd3fafbeb0a014b119f3f?s=256&d=identicon&r=PG",
+                "display_name": "ptr808",
+                "link": "https://stackoverflow.com/users/20893704/ptr808"
+            },
+            "is_answered": false,
+            "view_count": 11,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1677744048,
+            "creation_date": 1677661330,
+            "last_edit_date": 1677744048,
+            "question_id": 75601497,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75601497/bokeh-labelset-on-the-top-middle-of-the-bar-when-doged-how",
+            "title": "Bokeh labelset on the top - middle of the bar when doged.How?"
+        },
+        {
+            "tags": [
+                "python",
+                "web-scraping",
+                "beautifulsoup",
+                "html-table"
+            ],
+            "owner": {
+                "account_id": 25439097,
+                "reputation": 3,
+                "user_id": 19242353,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/2333fd916a80cdd4891265abc9ee7be6?s=256&d=identicon&r=PG",
+                "display_name": "lilqasr",
+                "link": "https://stackoverflow.com/users/19242353/lilqasr"
+            },
+            "is_answered": false,
+            "view_count": 15,
+            "answer_count": 1,
+            "score": 0,
+            "last_activity_date": 1677743810,
+            "creation_date": 1677680012,
+            "question_id": 75604851,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75604851/how-to-extract-hidden-input-text-on-javascript-table-when-scraping-a-website-wit",
+            "title": "How to extract hidden input text on javascript table when scraping a website with python and Beautifulsoup"
+        },
+        {
+            "tags": [
+                "python",
+                "algorithm",
+                "time-complexity",
+                "big-o",
+                "notation"
+            ],
+            "owner": {
+                "account_id": 20204742,
+                "reputation": 19,
+                "user_id": 14819494,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/41f6f98a96821fc1004037795a0d26e2?s=256&d=identicon&r=PG&f=1",
+                "display_name": "George",
+                "link": "https://stackoverflow.com/users/14819494/george"
+            },
+            "is_answered": false,
+            "view_count": 31,
+            "answer_count": 1,
+            "score": 0,
+            "last_activity_date": 1677743639,
+            "creation_date": 1677708452,
+            "question_id": 75609483,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75609483/what-would-be-the-time-complexity-of-this-code-big-o-notation",
+            "title": "What would be the time complexity of this code? Big O notation"
+        },
+        {
+            "tags": [
+                "python",
+                "pandas"
+            ],
+            "owner": {
+                "account_id": 354947,
+                "reputation": 31478,
+                "user_id": 1014217,
+                "user_type": "registered",
+                "accept_rate": 97,
+                "profile_image": "https://i.stack.imgur.com/6zW1x.jpg?s=256&g=1",
+                "display_name": "Luis Valencia",
+                "link": "https://stackoverflow.com/users/1014217/luis-valencia"
+            },
+            "is_answered": true,
+            "view_count": 37,
+            "accepted_answer_id": 75609423,
+            "answer_count": 1,
+            "score": 0,
+            "last_activity_date": 1677742873,
+            "creation_date": 1677706711,
+            "last_edit_date": 1677742197,
+            "question_id": 75609276,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75609276/how-to-convert-complex-json-object-to-pandas-dataframe-for-machine-learning",
+            "title": "How to convert complex JSON object to pandas dataframe for machine learning"
+        },
+        {
+            "tags": [
+                "python",
+                "visual-studio-code",
+                "jupyter-notebook",
+                "quarto"
+            ],
+            "owner": {
+                "account_id": 4468706,
+                "reputation": 4237,
+                "user_id": 3635544,
+                "user_type": "registered",
+                "accept_rate": 64,
+                "profile_image": "https://www.gravatar.com/avatar/?s=256&d=identicon&r=PG&f=1",
+                "display_name": "KubiK888",
+                "link": "https://stackoverflow.com/users/3635544/kubik888"
+            },
+            "is_answered": false,
+            "view_count": 24,
+            "answer_count": 1,
+            "score": -1,
+            "last_activity_date": 1677742266,
+            "creation_date": 1677642689,
+            "last_edit_date": 1677668613,
+            "question_id": 75599426,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75599426/quotno-module-named-39nbformat39quot-error-when-using-quarto-and-pytho",
+            "title": "&amp;quot;No module named &amp;#39;nbformat&amp;#39;&amp;quot; error when using Quarto and Python on VSCode"
+        },
+        {
+            "tags": [
+                "python",
+                "user-interface",
+                "firemonkey",
+                "mousemove",
+                "onmousemove"
+            ],
+            "owner": {
+                "account_id": 3474420,
+                "reputation": 1541,
+                "user_id": 2908017,
+                "user_type": "registered",
+                "accept_rate": 91,
+                "profile_image": "https://i.stack.imgur.com/cph6H.jpg?s=256&g=1",
+                "display_name": "Shaun Roselt",
+                "link": "https://stackoverflow.com/users/2908017/shaun-roselt"
+            },
+            "is_answered": false,
+            "view_count": 12,
+            "answer_count": 1,
+            "score": 0,
+            "last_activity_date": 1677742146,
+            "creation_date": 1677705202,
+            "last_edit_date": 1677741329,
+            "question_id": 75609057,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75609057/how-to-get-mouse-cursor-position-on-form-in-a-python-fmx-gui-app",
+            "title": "How to get Mouse Cursor Position on Form in a Python FMX GUI App?"
+        },
+        {
+            "tags": [
+                "python",
+                "selenium-webdriver",
+                "pycharm",
+                "selenium-edgedriver"
+            ],
+            "owner": {
+                "account_id": 27908982,
+                "reputation": 3,
+                "user_id": 21311581,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a/AGNmyxZUfZFUCYKxMXmFgORKF6Y-_fH2lXQxvUlfSZu_=k-s256",
+                "display_name": "FRAMED KING",
+                "link": "https://stackoverflow.com/users/21311581/framed-king"
+            },
+            "is_answered": true,
+            "view_count": 44,
+            "accepted_answer_id": 75612410,
+            "answer_count": 1,
+            "score": 0,
+            "last_activity_date": 1677742103,
+            "creation_date": 1677675258,
+            "question_id": 75604004,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75604004/python-oserror-winerror-193-1-is-not-a-valid-win32-application-in-seleniu",
+            "title": "Python : OSError: [WinError 193] %1 is not a valid Win32 application, in selenium"
+        },
+        {
+            "tags": [
+                "python",
+                "selenium-webdriver"
+            ],
+            "owner": {
+                "account_id": 27913479,
+                "reputation": 1,
+                "user_id": 21315128,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/c4bc11c3cbb925351dbfbcb5a359419c?s=256&d=identicon&r=PG",
+                "display_name": "Matheus Lima",
+                "link": "https://stackoverflow.com/users/21315128/matheus-lima"
+            },
+            "is_answered": true,
+            "view_count": 22,
+            "answer_count": 1,
+            "score": 0,
+            "last_activity_date": 1677741649,
+            "creation_date": 1677712943,
+            "question_id": 75609990,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75609990/how-to-automatazie-the-printing-frame",
+            "title": "How to automatazie the printing frame"
+        },
+        {
+            "tags": [
+                "python",
+                "python-3.x",
+                "windows",
+                "long-path"
+            ],
+            "owner": {
+                "account_id": 22987084,
+                "reputation": 1,
+                "user_id": 17113133,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/aa073a7509644c7700f24b12941d5f44?s=256&d=identicon&r=PG&f=1",
+                "display_name": "Bender",
+                "link": "https://stackoverflow.com/users/17113133/bender"
+            },
+            "is_answered": false,
+            "view_count": 37,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1677740823,
+            "creation_date": 1677670889,
+            "last_edit_date": 1677740823,
+            "question_id": 75603233,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75603233/how-to-make-python-3-code-overcome-windows-10-long-path-name",
+            "title": "How to make python 3 code overcome Windows 10 long path name?"
+        },
+        {
+            "tags": [
+                "python",
+                "opencv",
+                "computer-vision",
+                "camera-calibration"
+            ],
+            "owner": {
+                "account_id": 9477517,
+                "reputation": 303,
+                "user_id": 7046421,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/7886a0e6179e70ca0f6ea4df9ed051c8?s=256&d=identicon&r=PG&f=1",
+                "display_name": "ClimbingTheCurve",
+                "link": "https://stackoverflow.com/users/7046421/climbingthecurve"
+            },
+            "is_answered": false,
+            "view_count": 30,
+            "answer_count": 1,
+            "score": 0,
+            "last_activity_date": 1677740718,
+            "creation_date": 1677674456,
+            "question_id": 75603874,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75603874/trying-to-calculate-an-essential-matrix-using-skimage-or-cv2",
+            "title": "Trying to calculate an essential matrix using skimage, or cv2"
+        },
+        {
+            "tags": [
+                "python",
+                "python-3.x",
+                "pathlib"
+            ],
+            "owner": {
+                "account_id": 1611342,
+                "reputation": 888,
+                "user_id": 1794617,
+                "user_type": "registered",
+                "accept_rate": 40,
+                "profile_image": "https://www.gravatar.com/avatar/001cd3dded16718597e6861de86d8041?s=256&d=identicon&r=PG",
+                "display_name": "AjB",
+                "link": "https://stackoverflow.com/users/1794617/ajb"
+            },
+            "is_answered": false,
+            "view_count": 32,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1677740381,
+            "creation_date": 1677657918,
+            "last_edit_date": 1677740381,
+            "question_id": 75600954,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75600954/pathlib-takes-more-time-traversing-directory-recursively-than-os-walk",
+            "title": "pathlib takes more time traversing directory recursively than os.walk()"
+        },
+        {
+            "tags": [
+                "python",
+                "list",
+                "dictionary"
+            ],
+            "owner": {
+                "account_id": 3028916,
+                "reputation": 34811,
+                "user_id": 2568341,
+                "user_type": "registered",
+                "accept_rate": 57,
+                "profile_image": "https://www.gravatar.com/avatar/00f2307dd5844ae534b79c218bb60fff?s=256&d=identicon&r=PG&f=1",
+                "display_name": "krokodilko",
+                "link": "https://stackoverflow.com/users/2568341/krokodilko"
+            },
+            "is_answered": true,
+            "view_count": 57,
+            "closed_date": 1677721173,
+            "accepted_answer_id": 75607466,
+            "answer_count": 3,
+            "score": -1,
+            "last_activity_date": 1677740212,
+            "creation_date": 1677693564,
+            "question_id": 75607375,
+            "link": "https://stackoverflow.com/questions/75607375/how-to-combine-multiple-dictionaries-from-list",
+            "closed_reason": "Opinion-based",
+            "title": "how to combine multiple dictionaries from list?"
+        },
+        {
+            "tags": [
+                "python",
+                "python-3.x",
+                "python-3.8"
+            ],
+            "owner": {
+                "account_id": 4337467,
+                "reputation": 3584,
+                "user_id": 3541631,
+                "user_type": "registered",
+                "accept_rate": 90,
+                "profile_image": "https://www.gravatar.com/avatar/?s=256&d=identicon&r=PG&f=1",
+                "display_name": "user3541631",
+                "link": "https://stackoverflow.com/users/3541631/user3541631"
+            },
+            "is_answered": false,
+            "view_count": 21,
+            "answer_count": 1,
+            "score": -1,
+            "last_activity_date": 1677739839,
+            "creation_date": 1677690439,
+            "question_id": 75606870,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75606870/downloading-from-web-using-threadsinside-a-separate-process-and-multiprocessin",
+            "title": "Downloading from web using threads(inside a separate process) and multiprocessing queues"
+        },
+        {
+            "tags": [
+                "python",
+                "web-scraping"
+            ],
+            "owner": {
+                "account_id": 27909690,
+                "reputation": 1,
+                "user_id": 21312148,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/a09ae04e5f30adc53a2ff63d123d3899?s=256&d=identicon&r=PG",
+                "display_name": "abhishek",
+                "link": "https://stackoverflow.com/users/21312148/abhishek"
+            },
+            "is_answered": false,
+            "view_count": 18,
+            "answer_count": 0,
+            "score": -1,
+            "last_activity_date": 1677739473,
+            "creation_date": 1677680973,
+            "last_edit_date": 1677739473,
+            "question_id": 75605037,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75605037/how-to-scrap-an-element-under-two-divs-that-has-same-class-as-another-elements",
+            "title": "How to scrap an element Under two divs that has same class_ as another elements.(Python)"
+        },
+        {
+            "tags": [
+                "python",
+                "download",
+                "ftp"
+            ],
+            "owner": {
+                "account_id": 22898947,
+                "reputation": 23,
+                "user_id": 17038022,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a/AATXAJwiH4Q0mouVhBjmCH16TJnXY9UHCTAeIkbBTVTt=k-s256",
+                "display_name": "Kevin",
+                "link": "https://stackoverflow.com/users/17038022/kevin"
+            },
+            "is_answered": false,
+            "view_count": 17,
+            "answer_count": 1,
+            "score": 0,
+            "last_activity_date": 1677739316,
+            "creation_date": 1677704976,
+            "question_id": 75609033,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75609033/python-ftp-script-doesn39t-complete-download",
+            "title": "Python FTP script doesn&amp;#39;t complete download"
+        }
+    ],
+    "has_more": true,
+    "quota_max": 300,
+    "quota_remaining": 222
+}
